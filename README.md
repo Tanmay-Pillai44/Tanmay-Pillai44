@@ -25,7 +25,7 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 </br>
 
 
-<img align="right" alt="GIF" src="https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/main/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 </br>
 
