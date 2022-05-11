@@ -36,7 +36,7 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 - 🚀 I’m currently learning to be MERN Stack Developer
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: omtej4499@gmail.com
-- 📝 [My Resume](https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/main/Tanmay_Resume.pdf)
+- 📝 [My Resume](https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/master/Tanmay_Resume.pdf)
 
 </br>
 
