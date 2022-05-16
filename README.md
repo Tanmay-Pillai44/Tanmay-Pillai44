@@ -22,8 +22,6 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-</br>
-
 
 <img align="right" alt="GIF" src="https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/master/coding.gif?raw=true" width="408" height="318" />
 
