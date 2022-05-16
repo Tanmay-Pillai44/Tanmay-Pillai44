@@ -43,6 +43,8 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 
 
 📊 **This Week I Spent My Time On:**
+</br>
+</br>
 <!--START_SECTION:waka-->
 
 ```text
