@@ -49,12 +49,12 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 <!--START_SECTION:waka-->
 
 ```text
-Text         6 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   45.60 %
-JavaScript   6 hrs 3 mins    ██████████▒░░░░░░░░░░░░░░   41.60 %
-Markdown     41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-EJS          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JavaScript   12 hrs 37 mins  ██████████████▓░░░░░░░░░░   59.18 %
+Text         6 hrs 44 mins   ████████░░░░░░░░░░░░░░░░░   31.63 %
+Markdown     41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+EJS          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
