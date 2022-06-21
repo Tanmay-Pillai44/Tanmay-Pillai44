@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://tanmay-pillai44.github.io/portfolio-project/" target="_blank">Tanmay Pillai</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://tanmay-pillai44.github.io/portfolio-project/" target="_blank">Tanmay Pillai</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Tanmay-Pillai44/Tanmay-Pillai44)
 
@@ -22,8 +22,6 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-</br>
-
 
 <img align="right" alt="GIF" src="https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -39,13 +37,23 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 - 📝 [My Resume](https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/master/Tanmay_Resume.pdf)
 
 </br>
+</br>
+</br>
+</br>
+</br>
 
 
 📊 **This Week I Spent My Time On:**
+</br>
+
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Text         6 hrs 46 mins   █████████████████░░░░░░░░   67.86 %
+JavaScript   3 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.19 %
+HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
