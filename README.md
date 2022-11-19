@@ -48,9 +48,9 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 47 mins   ██████████████████████▓░░   90.98 %
-JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+TypeScript   6 hrs 23 mins   █████████████████████████   99.45 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
