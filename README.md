@@ -48,11 +48,11 @@ As a developer, I am a good man of purpose and pride myself in the quality of my
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 43 mins  ████████████████████░░░░░   80.65 %
-JSON         2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-TSConfig     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Less         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript   11 hrs 50 mins  █████████████████▓░░░░░░░   71.07 %
+JSON         3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+TSConfig     50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Less         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
